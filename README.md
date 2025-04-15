@@ -1,4 +1,41 @@
-# Portfolio
+# 💰 Wealth of Nations Dashboard
 
-🎯 Project Overview In the money driven world we live in today, an interesting question is what makes different nations' wealth increase? 💰 In this project, I explored the Wealth of Nations dataset, transforming raw data into compelling insights with clean visuals and interactive storytelling. Using Microsoft Excel for data wrangling and Tableau for dynamic visualisations, I built an intuitive dashboard that makes economic data both informative and engaging even for someone with no background on finance or datasets. 🛠️ Tools & Skills: Excel: !!Data Cleaning: Handled missing values, corrected inconsistencies, and organized the dataset for analysis. !!Data Manipulation: Leveraged formulas, pivot tables, and logical functions to extract key metrics. Tableau: !!Visualisations: Created impactful visuals—bar charts 📊, line graphs 📈, and geographic maps 🗺️—to highlight economic trends. !!Dashboard Design: Integrated visuals into an interactive, user-friendly dashboard that tells a clear, data-driven story. 🌟 What You’ll Discover 🧭 Economic Trends: Explore global GDP growth over time. 🌎 Regional Insights: Compare wealth and population data across continents. 🔍 Key Indicators: Identify the major drivers of national wealth. 🚀 How to Explore 🖱️ View the Tableau Dashboard 📂 Dive into the Excel file and raw dataset in this repo to see the data behind the visuals. 🎉 Let’s Dive In! This project highlights how thoughtful data cleaning and visual storytelling can turn complex datasets into clear, impactful insights. 🌍
+## 🎯 Project Overview  
+In today’s money-driven world, a compelling question arises: *What makes some nations wealthier than others?* 💰  
+This project dives into the **Wealth of Nations** dataset, transforming raw economic data into powerful, easy-to-understand insights.  
+Using **Microsoft Excel** for data wrangling and **Tableau** for rich visual storytelling, I created an interactive dashboard that makes economic data engaging—even for those with no background in finance or data.
+
+---
+
+## 🛠️ Tools & Skills
+
+### Excel  
+- ✅ **Data Cleaning**: Resolved missing values, fixed inconsistencies, and structured the dataset for analysis.  
+- ✅ **Data Manipulation**: Used formulas, pivot tables, and logical functions to summarize key metrics.
+
+### Tableau  
+- ✅ **Visualisations**: Designed bar charts 📊, line graphs 📈, and geo maps 🗺️ to highlight economic trends.  
+- ✅ **Dashboard Design**: Combined visuals into an interactive, user-friendly dashboard that tells a compelling data story.
+
+---
+
+## 🌟 What You’ll Discover
+
+- 🧭 **Economic Trends**: Track global GDP growth across time.  
+- 🌎 **Regional Insights**: Compare wealth and population data by continent.  
+- 🔍 **Key Indicators**: See what factors drive national wealth.
+
+---
+
+## 🚀 How to Explore
+
+- 🖱️ **[View the Tableau Dashboard](#)**  
+  *(Replace the link above with your live Tableau dashboard link)*  
+- 📂 **Explore the Excel file and raw data** in this repo to dig into the behind-the-scenes work.
+
+---
+
+## 🎉 Let’s Dive In!  
+This project shows how thoughtful **data cleaning** and **visual storytelling** can turn complex datasets into clear, impactful insights.  
+Ready to explore the economics of our world? Let’s go! 🌍
 
